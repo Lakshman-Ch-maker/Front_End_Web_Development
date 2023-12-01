@@ -25,7 +25,7 @@
 .banner {
 	padding: auto;
 	margin: auto;
-	border: #c664d2;
+	border: #E6E6FA;
 	background-color: #d1c3dd; /* Background color of the banner */
 	padding: 20px; /* Padding for the content inside the banner */
 	text-align: center; /* Align the content to the center */
@@ -57,10 +57,10 @@
 	padding: 10px 20px; /* Padding for each menu item */
   }
 
-  a:hover {
+  a: hover {
 	background-color: #5c0c7c; /* Background color on hover */
 	margin: auto
-	border:auto;
+	border: auto;
   }
 
 .headings{
@@ -82,7 +82,7 @@ margin: center;
 }
 
 .c {
-	background-color: #CF9FFF;
+	background-color: #770737;
 }
 
 
